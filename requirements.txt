@@ -1,4 +1,5 @@
 ipykernel
 requests
 beautifulsoup4
+selenium 
 pandas
