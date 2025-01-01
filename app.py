@@ -71,10 +71,10 @@ def create_vector_embedding():
             st.stop()
 
 # Streamlit UI
-st.title("RAG Document Q&A With Groq And Llama3")
+st.title("GenZ Contextual Chatbot: AI-Powered Solution for Accurate and Insightful Query Responses")
 
 # User query input
-user_prompt = st.text_input("Enter your query from the research paper")
+user_prompt = st.text_input("Enter your query from the GenZMarketing website.")
 
 # Initialize vector embedding
 if st.button("Document Embedding"):
