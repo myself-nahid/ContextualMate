@@ -49,7 +49,7 @@ HF_TOKEN=your_huggingface_token
 ```
 4. Run the Application:
 ```
-streamlit run main.py
+streamlit run app.py
 ```
 ## Usage
 
